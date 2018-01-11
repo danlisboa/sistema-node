@@ -1,0 +1,19 @@
+{
+  "name": "sistema",
+  "version": "1.0.0",
+  "description": "Sistema que gerencia agenda de estabelecimentos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "c",
+    "mongoose",
+    "express"
+  ],
+  "author": "Daniel Lisboa <daniellisboa.me@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
